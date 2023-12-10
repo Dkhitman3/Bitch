@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyaofc1&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyaofc1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyaofc1" alt="kaviyaofc1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dkhitman3" alt="kaviyaofc1" /></a> </p>
 
-- 🔭 I’m currently working on [Github](github.com/kaviyaofc1)
+- 🔭 I’m currently working on [Github](github.com/Dkhitman3/Dkhitman)
 
 - 🌱 I’m currently learning **Python Language,B##**
 
