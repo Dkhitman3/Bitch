@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Github](github.com/Dkhitman3/Dkhitman)
 
-- 🌱 I’m currently learning **Python Language,B##**
+- 🌱 I’m currently learning **TS Language,B##**
 
-- 📫 How to reach me wa.me/+27844132352 
+**- 📫 How to reach me** wa.me/+27844132352 
 
 - ⚡ Fun fact **I Think I'm Funny.**
 
