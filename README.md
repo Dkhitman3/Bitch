@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dk hitman Ofc</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Dk hitman</h1>
+<h3 align="center">I AM not a developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyaofc1&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyaofc1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python Language,B##**
 
-- 📫 How to reach me wa.me/+27844132352**
+- 📫 How to reach me wa.me/+27844132352 
 
 - ⚡ Fun fact **I Think I'm Funny.**
 
