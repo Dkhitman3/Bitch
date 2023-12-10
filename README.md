@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dk hitman</h1>
 <h3 align="center">I AM not a developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyaofc1&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyaofc1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dkhitman31&label=Profile%20views&color=0e75b6&style=flat" alt="Dkhitman3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dkhitman3" alt="kaviyaofc1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dkhitman3" alt="Dkhitman3" /></a> </p>
 
 - 🔭 I’m currently working on [Github](github.com/Dkhitman3/Dkhitman)
 
